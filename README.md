@@ -5,17 +5,17 @@ Currently an student in IT integrated with High School at Centro Federal de Educ
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 
-[![Gmail Badge](https://img.shields.io/badge/-docs.mtamaral@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:docs.mtamaral@gmail.com)](mailto:docs.mtamaral@gmail.com)
-
 ---
 
 ### GitHub Stats 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Am4ral) 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Am4ral&count_private=true&show_icons=true&include_all_commits=true) 
+<p>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinicius&layout=compact&theme=dark" width="400"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=tinicius&show_icons=true&count_private=true&theme=dark" width="400" align="top"></a>
+</p>
 
 ---
 
-### ⚡ Technologies
+### Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -23,20 +23,3 @@ Currently an student in IT integrated with High School at Centro Federal de Educ
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-
-![Profile views](https://gpvc.arturio.dev/Am4ral)  
-<!--
-**Am4ral/Am4ral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
