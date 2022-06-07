@@ -2,9 +2,9 @@
 Olá,
 Meu nome é Vinicius Alves Pereira
 
-- 🖥️ I,m currently taking a technical course in computer science.
+- 🖥️ I,m currently .
 - 🔭 I’m currently working on my thecnical degree thesis.
-- 🌱 I’m currently learning Flutter and Robotics.
+- 🌱 I’m currently .
 
 <details>
   
