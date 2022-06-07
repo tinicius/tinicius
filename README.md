@@ -2,8 +2,8 @@
 Olá,
 Meu nome é Vinicius Alves Pereira
 
-- 🖥️ I,m currently .
-- 🔭 I’m currently working on my thecnical degree thesis.
+- 🖥️ I,m currently studying .
+- 🔭 I’m currently working .
 - 🌱 I’m currently .
 
 <details>
