@@ -1,16 +1,14 @@
-### About me    
-Olá,
-Meu nome é Vinicius Alves Pereira
+### Sobre    
+👋 Olá! 
 
-- 🖥️ I,m currently studying .
-- 🔭 I’m currently working .
-- 🌱 I’m currently .
+Meu nome é **Vinicius Alves Pereira**, sou estudante de **Engenharia da Computação** no **CEFET-MG** e atualmente estou estagiando como desenvolvedor front-end e mobile.
 
-<details>
-  
-<summary>GitHub Stats</summary>
-  </br>
-<p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinicius&layout=compact&theme=dark" width="400"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=tinicius&show_icons=true&count_private=true&theme=dark" width="481.5" align="top"></a>
-</p>
+Tenho grande interrese por **Programação Competitiva** e estou me preparando para competições de maratona de programação. 
+
+Meu foco atual é aprimorar minhas habilidades em algoritmos, estruturas de dados e otimização de código. Estou sempre em busca de novos conhecimentos e adoro compartilhar soluções elegantes. Vamos codar juntos
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+### Contatos
+🌐 [LinkedIn](https://www.linkedin.com/seu_perfil)
+📧 seu_email@example.com
