@@ -14,7 +14,7 @@ Meu foco atual é aprimorar minhas habilidades em algoritmos, estruturas de dado
   <a href="https://www.linkedin.com/in/vinicius-alves-pereira-913254236/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="vinicius.apereira04@gmail.com">
+  <a href="mailto:vinicius.apereira04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
