@@ -9,7 +9,7 @@ Tenho grande interrese por **Programação Competitiva** e estou me preparando p
 
 Meu foco atual é aprimorar minhas habilidades em algoritmos, estruturas de dados e otimização de código.
 
-[![My Skills](https://skillicons.dev/icons?i=github,md,c,cpp,py,html,css,js,dart,babel,firebase,react,ts,docker,bash,aws,nginx&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,md,c,cpp,py,html,css,js,dart,babel,firebase,react,ts,docker,bash,aws,nginx&perline=12)](https://skillicons.dev)
 
 ### Contatos
 <p>
