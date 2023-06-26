@@ -10,5 +10,12 @@ Meu foco atual é aprimorar minhas habilidades em algoritmos, estruturas de dado
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ### Contatos
-🌐 [LinkedIn](https://www.linkedin.com/seu_perfil)
-📧 seu_email@example.com
+<p>
+  <a href="https://www.linkedin.com/in/vinicius-alves-pereira-913254236/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="vinicius.apereira04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
