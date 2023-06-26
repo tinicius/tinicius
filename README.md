@@ -1,13 +1,15 @@
 ### Sobre    
 👋 Olá! 
 
-Meu nome é **Vinicius Alves Pereira**, sou estudante de **Engenharia da Computação** no **CEFET-MG** e atualmente estou estagiando como desenvolvedor front-end e mobile.
+Meu nome é **Vinicius Alves Pereira**, sou estudante de **Engenharia da Computação** no **CEFET-MG**.
 
-Tenho grande interrese por **Programação Competitiva** e estou me preparando para competições de maratona de programação. 
+Atualmente estou estagiando como desenvolvedor front-end e mobile.
 
-Meu foco atual é aprimorar minhas habilidades em algoritmos, estruturas de dados e otimização de código. Estou sempre em busca de novos conhecimentos e adoro compartilhar soluções elegantes. Vamos codar juntos
+Tenho grande interrese por **Programação Competitiva** e estou me preparando para competições de programação. 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+Meu foco atual é aprimorar minhas habilidades em algoritmos, estruturas de dados e otimização de código.
+
+[![My Skills](https://skillicons.dev/icons?i=github,md,c,cpp,py,html,css,js,dart,babel,firebase,react,ts,docker,bash,aws,nginx&perline=6)](https://skillicons.dev)
 
 ### Contatos
 <p>
